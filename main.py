@@ -15,9 +15,7 @@ origins = [
     "http://localhost",
     "http://localhost:3000",
     "http://localhost:5173",
-    "https://tweet-fetch-app.vercel.app/"
-    
-    
+    "https://tweet-fetch-app.vercel.app"
 ]
 
 app.add_middleware(
